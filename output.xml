@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.2.2 (Python 3.11.4 on win32)" generated="2025-04-05T23:44:18.772199" rpa="false" schemaversion="5">
+<suite id="s1" name="Tests" source="C:\RobotFramework\TestProject\Tests">
+<suite id="s1-s1" name="TestCase2" source="C:\RobotFramework\TestProject\Tests\TestCase2.robot">
+<test id="s1-s1-t1" name="TEST2" line="10">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>This is my second testcase</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-04-05T23:44:18.809277" elapsed="0.001019"/>
+</kw>
+<status status="PASS" start="2025-04-05T23:44:18.809277" elapsed="0.001019"/>
+</test>
+<doc>This is my second Test case</doc>
+<status status="PASS" start="2025-04-05T23:44:18.798193" elapsed="0.013007"/>
+</suite>
+<suite id="s1-s2" name="TestCase3" source="C:\RobotFramework\TestProject\Tests\TestCase3.robot">
+<test id="s1-s2-t1" name="TEST3" line="10">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>This is my third testcase</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-04-05T23:44:18.816194" elapsed="0.000000"/>
+</kw>
+<status status="PASS" start="2025-04-05T23:44:18.816194" elapsed="0.001014"/>
+</test>
+<doc>This is my third Test case</doc>
+<status status="PASS" start="2025-04-05T23:44:18.812228" elapsed="0.005966"/>
+</suite>
+<suite id="s1-s3" name="TestCase1" source="C:\RobotFramework\TestProject\Tests\TestCase1.robot">
+<test id="s1-s3-t1" name="TEST" line="10">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>All the Best for your new journey and have a successful career ahead</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-04-05T23:44:18.823193" elapsed="0.000000"/>
+</kw>
+<status status="PASS" start="2025-04-05T23:44:18.822192" elapsed="0.001001"/>
+</test>
+<doc>This is my first Test case project</doc>
+<status status="PASS" start="2025-04-05T23:44:18.819192" elapsed="0.005012"/>
+</suite>
+<suite id="s1-s4" name="TestSuite" source="C:\RobotFramework\TestProject\Tests\TestSuite.robot">
+<test id="s1-s4-t1" name="TEST2" line="14">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>This is my second testcase</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-04-05T23:44:18.828194" elapsed="0.000000"/>
+</kw>
+<status status="PASS" start="2025-04-05T23:44:18.828194" elapsed="0.001008"/>
+</test>
+<test id="s1-s4-t2" name="TEST1" line="11">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>This is my first testcase</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-04-05T23:44:18.829202" elapsed="0.001072"/>
+</kw>
+<status status="PASS" start="2025-04-05T23:44:18.829202" elapsed="0.001072"/>
+</test>
+<doc>This is my first Test suite</doc>
+<status status="PASS" start="2025-04-05T23:44:18.825192" elapsed="0.006008"/>
+</suite>
+<meta name="Randomized">Suites and tests (seed 4100368818536932544)</meta>
+<status status="PASS" start="2025-04-05T23:44:18.774197" elapsed="0.057003"/>
+</suite>
+<statistics>
+<total>
+<stat pass="5" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Tests" id="s1" pass="5" fail="0" skip="0">Tests</stat>
+<stat name="TestCase2" id="s1-s1" pass="1" fail="0" skip="0">Tests.TestCase2</stat>
+<stat name="TestCase3" id="s1-s2" pass="1" fail="0" skip="0">Tests.TestCase3</stat>
+<stat name="TestCase1" id="s1-s3" pass="1" fail="0" skip="0">Tests.TestCase1</stat>
+<stat name="TestSuite" id="s1-s4" pass="2" fail="0" skip="0">Tests.TestSuite</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

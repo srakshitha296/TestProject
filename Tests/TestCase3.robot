@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  This is my second Test case
+Documentation  This is my third Test case
 Library        OperatingSystem
 
 *** Keywords ***
@@ -7,5 +7,5 @@ Library        OperatingSystem
 *** Variables ***
 
 *** Test Cases ***
-TEST2
-    Log To Console    This is my second testcase
+TEST3
+    Log To Console    This is my third testcase
