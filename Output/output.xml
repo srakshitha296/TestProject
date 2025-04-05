@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.2.2 (Python 3.11.4 on win32)" generated="2025-04-06T01:03:12.494253" rpa="false" schemaversion="5">
+<suite id="s1" name="TestCase4" source="C:\RobotFramework\TestProject\Tests\TestCase4.robot">
+<test id="s1-t1" name="TEST4" line="15">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>${a} ${b} ${versions}[1]</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-04-06T01:03:12.535291" elapsed="0.001300"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>${credentials}[username]</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-04-06T01:03:12.536591" elapsed="0.000727"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>${credentials}[password]</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-04-06T01:03:12.537318" elapsed="0.000565"/>
+</kw>
+<tag>demo</tag>
+<tag>demo2</tag>
+<status status="PASS" start="2025-04-06T01:03:12.527049" elapsed="0.010834"/>
+</test>
+<doc>This is my fourth Test case</doc>
+<status status="PASS" start="2025-04-06T01:03:12.499135" elapsed="0.038748"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0" skip="0">demo</stat>
+<stat pass="1" fail="0" skip="0">demo2</stat>
+</tag>
+<suite>
+<stat name="TestCase4" id="s1" pass="1" fail="0" skip="0">TestCase4</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
