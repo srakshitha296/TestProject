@@ -10,3 +10,4 @@ Library        OperatingSystem
 TEST3
     [Tags]      demo    demo2
     Log To Console    This is my third testcase
+    Logs To Console    This is my third testcase
