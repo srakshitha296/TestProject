@@ -8,4 +8,5 @@ Library        OperatingSystem
 
 *** Test Cases ***
 TEST2
+    [Tags]      demo2
     Log To Console    This is my second testcase

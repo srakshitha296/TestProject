@@ -8,4 +8,5 @@ Library        OperatingSystem
 
 *** Test Cases ***
 TEST
+    [Tags]      demo
     Log To Console    All the Best for your new journey and have a successful career ahead
